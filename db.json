@@ -121,16 +121,6 @@
         }
       ],
       "id": 2
-    },
-    {
-      "name": "Plain Ol' Pepperoni",
-      "toppings": [
-        {
-          "id": 10,
-          "name": "pepperoni"
-        }
-      ],
-      "id": 3
     }
   ]
 }
